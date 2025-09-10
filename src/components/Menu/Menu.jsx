@@ -350,7 +350,7 @@ const Menu = () => {
                 }
               }}
             >
-              Format Archive
+              Elixir Archive
             </a>
           </div>
         </div>
@@ -381,7 +381,7 @@ const Menu = () => {
                   navigateTo("/");
                 }}
               >
-                Format Archive
+                Elixir Archive
               </a>
             </div>
           </div>
@@ -457,13 +457,10 @@ const Menu = () => {
           <div className="menu-footer-col">
             <div className="socials">
               <div className="revealer">
-                <a href="https://www.youtube.com/@codegrid">YouTube</a>
+                <a href="https://www.youtube.com/@Elixir.Studio">YouTube</a>
               </div>
               <div className="revealer">
-                <a href="https://www.instagram.com/codegridweb/">Instagram</a>
-              </div>
-              <div className="revealer">
-                <a href="https://x.com/codegridweb">X</a>
+                <a href="https://www.instagram.com/elixir_recordsofficial/">Instagram</a>
               </div>
             </div>
           </div>

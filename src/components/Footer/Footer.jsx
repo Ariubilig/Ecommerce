@@ -13,7 +13,7 @@ const Footer = () => {
         minute: "numeric",
         second: "numeric",
         hour12: true,
-        timeZone: "America/Toronto",
+        timeZone: "Asia/Ulaanbaatar",
       };
 
       const formatter = new Intl.DateTimeFormat("en-US", options);
@@ -34,12 +34,12 @@ const Footer = () => {
       </div>
       <div className="footer-col">
         <div className="footer-clock">
-          <p>Toronto, ON {torontoTime}</p>
+          <p>Ulaanbaatar, ON {torontoTime}</p>
         </div>
         <div className="footer-author">
           <p>
             Made by&nbsp;
-            <Link href="https://www.youtube.com/@codegrid">Codegrid</Link>
+            <Link href="https://github.com/Ariubilig">RARI</Link>
           </p>
         </div>
       </div>

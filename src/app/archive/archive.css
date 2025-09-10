@@ -1,6 +1,6 @@
 .archive-page {
   position: relative;
-  width: 100vw;
+  width: auto;
   height: 100%;
   display: flex;
   padding: 1em;
